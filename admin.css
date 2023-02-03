@@ -1,0 +1,47 @@
+.dashboard .left_column{
+    height: 100vh;
+}
+.dashboard .left_column h2 {
+    font-size: 20px !important;
+    padding: 20px !important;
+    padding-top:40px !important;
+
+}
+.dashboard .left_column h2 a{
+    text-decoration: none !important;
+    color:#fff;
+}
+label{
+    font-size: 20px !important;
+    padding-bottom: 7px !important;
+}
+.top_header_input input{
+     margin-bottom:1px !important;
+   padding:10px !important;
+   font-size: 20px !important;
+   padding-left: 10px;
+}
+.top_header_input button{
+    margin-top: 10px;
+}
+.left_column ul li{
+        list-style: none;
+        margin-bottom: 8px;  
+}
+.right_column h2{
+    margin-top:15px;
+}
+button{
+    width:100px;
+    padding:5px;
+}
+.left_column ul li a{
+    text-decoration: none;
+    color:#fff;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.dashboard .left_column h5 {
+    font-size: 20px;
+    padding: 10px;
+}
